@@ -1,4 +1,5 @@
 # clean-img-classification-dataset
+    - [Medium Article](https://medium.com/@nathan_49206/finding-needles-in-the-haystack-2fbbe45da9dd)
 
 ## Setting up the project environment
 ### Run in root of repository
